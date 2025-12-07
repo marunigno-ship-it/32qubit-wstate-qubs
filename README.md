@@ -15,3 +15,10 @@ Author: Maroussa Metoxaraki (@marunigno)
 December 2025 – Greece
 
 #QuantumRobotics #QAI #IBMQuantum #Greece
+
+
+## Run it yourself in 10 seconds
+
+```bash
+pip install qiskit[visualization]    # one-time only
+python w32.py
