@@ -22,7 +22,9 @@ https://github.com/marunigno-ship-it/QERRA-v2
 - [8-qubit W-state (real IBM hardware)](https://github.com/marunigno-ship-it/8qubit-wstate-qubs)  
 - [16-qubit W-state](https://github.com/marunigno-ship-it/16qubit-wstate-qubs)
 
-**License:** Apache-2.0 (same as main project)
+**License:** AGPL-3.0 (same as main project)
+
+
 
 #QuantumRobotics #QAI #IBMQuantum #EthicalAI #QuantumEntanglement #Greece
 
@@ -30,3 +32,17 @@ https://github.com/marunigno-ship-it/QERRA-v2
 ```bash
 pip install qiskit[visualization]  # one-time only
 python w32.py
+
+AGPL-3.0 (same as main project)
+
+## Ownership Note (March 09, 2026)
+
+This 32-qubit W-state simulation proof is my original work as part of QERRA / QAI.  
+The code, architecture, and mission are mine (Marussa Metocharaki, @marunigno, https://github.com/marunigno-ship-it).
+
+Any older Apache-2.0 forks are frozen snapshots from a short, difficult chapter that ended days ago — they do not represent my current direction.
+
+The repo is now under AGPL-3.0.  
+The name “QERRA”, the acronym, and the ethical vision are mine.
+
+Quiet note for clarity. The real work continues. ❤️
